@@ -390,7 +390,7 @@ testimonial
 }
 
 .testi-info a img {
-    width: 100px;
+    /* width: 100px; */
     height: 80px;
     /* background-color: #fff; */
     /* border-radius: 50%; */
